@@ -1,2 +1,1 @@
-My first readme
-startung to code today,so cool
+starting to code today,so cool
