@@ -1,1 +1,1 @@
-git add --all
+git push origin <branch-name>
